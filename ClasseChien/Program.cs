@@ -1,13 +1,28 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-namespace Chien
+namespace ClasseChien
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Liste des chiens");
-            ClasseChien chien1 = new ClasseChien("Happy", "Doberman", true, "Bosnie", "Male", "Noir et Feu", false, false, "Oreilles et queue coupées", true, true, false, true);
+            int nombreDeChien;
+            
+            
+            
+            
+            Console.WriteLine("Bienvenue, combien de chien(s) voulez aimeriez vous enregister ?");
+            nombreDeChien = int.Parse(Console.ReadLine());
+
+
+            ClasseChien[] meschiens = new ClasseChien[nombreDeChien];
+
+            for (int i = 0; i < nombreDeChien-1; i++)
+            {
+
+            }
+
+           
         }
     }
 }

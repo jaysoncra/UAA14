@@ -1,0 +1,16 @@
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_1_LAYOUTS\exercice_2\bin\Debug\exercice_2.exe.config
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_1_LAYOUTS\exercice_2\bin\Debug\exercice_2.exe
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_1_LAYOUTS\exercice_2\bin\Debug\exercice_2.pdb
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_1_LAYOUTS\exercice_2\obj\Debug\exercice_2.csproj.AssemblyReference.cache
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_1_LAYOUTS\exercice_2\obj\Debug\exercice_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_1_LAYOUTS\exercice_2\obj\Debug\MainWindow.g.cs
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_1_LAYOUTS\exercice_2\obj\Debug\App.g.cs
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_1_LAYOUTS\exercice_2\obj\Debug\exercice_2_MarkupCompile.cache
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_1_LAYOUTS\exercice_2\obj\Debug\exercice_2_MarkupCompile.lref
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_1_LAYOUTS\exercice_2\obj\Debug\MainWindow.baml
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_1_LAYOUTS\exercice_2\obj\Debug\exercice_2.g.resources
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_1_LAYOUTS\exercice_2\obj\Debug\exercice_2.Properties.Resources.resources
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_1_LAYOUTS\exercice_2\obj\Debug\exercice_2.csproj.GenerateResource.cache
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_1_LAYOUTS\exercice_2\obj\Debug\exercice_2.csproj.CoreCompileInputs.cache
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_1_LAYOUTS\exercice_2\obj\Debug\exercice_2.exe
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_1_LAYOUTS\exercice_2\obj\Debug\exercice_2.pdb
