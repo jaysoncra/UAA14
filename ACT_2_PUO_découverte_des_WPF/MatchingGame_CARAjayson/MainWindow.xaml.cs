@@ -23,6 +23,60 @@ namespace MatchingGame
         public MainWindow()
         {
             InitializeComponent();
+
+            
+        }
+
+        int index;
+        Random nbAlea = new Random();
+        string nextEmoji;
+        private void SetUpGame()
+        {
+            List<string> emoji = new List<string>()
+            {
+                "🦓","🦓",
+                "🦄","🦄",
+                "🐺","🐺",
+                "🦊","🦊",
+                "🐴","🐴",
+                "🦁","🦁",
+                "🐯","🐯",
+                "🐼","🐼",
+            };
+
+            foreach (TextBlock textBlock in grdMain.Children.OfType<TextBlock>())
+            {
+                index = nbAlea.Next(emoji.Count); // index est un type int 
+                // nbalea est un objet de type Random()
+                nextEmoji = emoji[index]; // nextEamji est un type  string
+                textBlock.Text = nextEmoji;
+                emoji.RemoveAt(index); // on retire un animal de la liste pour ne pas l'attribuer à nouveau.
+            }
+                
+        }
+        TextBlock derniereTBClique; //on va l'utiliser  pour faire une référence à la TextBlock sur laquelle on vient de cliquer
+        bool trouvePaire = false;
+
+
+        private void TextBlock_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            TextBlock texteBlockActif = sender as TextBlock;
+            if (!trouvePaire)
+            {
+                texteBlockActif.Visibility = Visibility.Hidden;
+                derniereTBClique = texteBlockActif;
+                trouvePaire = true;
+            }
+            else if (texteBlockActif.Text == derniereTBClique.Text)
+            {
+                texteBlockActif.Visibility = Visibility.Hidden;
+                trouvePaire = false;
+            }
+            else
+            {
+                derniereTBClique.Visibility   = Visibility.Visible;
+                trouvePaire = false;
+            }
         }
     }
 }
