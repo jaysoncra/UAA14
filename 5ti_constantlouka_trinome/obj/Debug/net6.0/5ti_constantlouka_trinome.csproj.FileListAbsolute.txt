@@ -1,0 +1,14 @@
+C:\Users\louka\OneDrive\Documents\ecole\progra\5ti_constantlouka_trinome\obj\Debug\net6.0\5ti_constantlouka_trinome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louka\OneDrive\Documents\ecole\progra\5ti_constantlouka_trinome\obj\Debug\net6.0\5ti_constantlouka_trinome.AssemblyInfoInputs.cache
+C:\Users\louka\OneDrive\Documents\ecole\progra\5ti_constantlouka_trinome\obj\Debug\net6.0\5ti_constantlouka_trinome.AssemblyInfo.cs
+C:\Users\louka\OneDrive\Documents\ecole\progra\5ti_constantlouka_trinome\obj\Debug\net6.0\5ti_constantlouka_trinome.csproj.CoreCompileInputs.cache
+C:\Users\louka\OneDrive\Documents\ecole\progra\5ti_constantlouka_trinome\bin\Debug\net6.0\5ti_constantlouka_trinome.exe
+C:\Users\louka\OneDrive\Documents\ecole\progra\5ti_constantlouka_trinome\bin\Debug\net6.0\5ti_constantlouka_trinome.deps.json
+C:\Users\louka\OneDrive\Documents\ecole\progra\5ti_constantlouka_trinome\bin\Debug\net6.0\5ti_constantlouka_trinome.runtimeconfig.json
+C:\Users\louka\OneDrive\Documents\ecole\progra\5ti_constantlouka_trinome\bin\Debug\net6.0\5ti_constantlouka_trinome.dll
+C:\Users\louka\OneDrive\Documents\ecole\progra\5ti_constantlouka_trinome\bin\Debug\net6.0\5ti_constantlouka_trinome.pdb
+C:\Users\louka\OneDrive\Documents\ecole\progra\5ti_constantlouka_trinome\obj\Debug\net6.0\5ti_constantlouka_trinome.dll
+C:\Users\louka\OneDrive\Documents\ecole\progra\5ti_constantlouka_trinome\obj\Debug\net6.0\refint\5ti_constantlouka_trinome.dll
+C:\Users\louka\OneDrive\Documents\ecole\progra\5ti_constantlouka_trinome\obj\Debug\net6.0\5ti_constantlouka_trinome.pdb
+C:\Users\louka\OneDrive\Documents\ecole\progra\5ti_constantlouka_trinome\obj\Debug\net6.0\5ti_constantlouka_trinome.genruntimeconfig.cache
+C:\Users\louka\OneDrive\Documents\ecole\progra\5ti_constantlouka_trinome\obj\Debug\net6.0\ref\5ti_constantlouka_trinome.dll

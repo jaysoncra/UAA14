@@ -1,0 +1,15 @@
+C:\Users\jayso\Documents\UAA14\ACT_3\EX WPF OBJET    EVENTS\bin\Debug\EX WPF OBJET    EVENTS.exe.config
+C:\Users\jayso\Documents\UAA14\ACT_3\EX WPF OBJET    EVENTS\bin\Debug\EX WPF OBJET    EVENTS.exe
+C:\Users\jayso\Documents\UAA14\ACT_3\EX WPF OBJET    EVENTS\bin\Debug\EX WPF OBJET    EVENTS.pdb
+C:\Users\jayso\Documents\UAA14\ACT_3\EX WPF OBJET    EVENTS\obj\Debug\EX WPF OBJET    EVENTS.csproj.AssemblyReference.cache
+C:\Users\jayso\Documents\UAA14\ACT_3\EX WPF OBJET    EVENTS\obj\Debug\MainWindow.g.cs
+C:\Users\jayso\Documents\UAA14\ACT_3\EX WPF OBJET    EVENTS\obj\Debug\App.g.cs
+C:\Users\jayso\Documents\UAA14\ACT_3\EX WPF OBJET    EVENTS\obj\Debug\EX WPF OBJET    EVENTS_MarkupCompile.cache
+C:\Users\jayso\Documents\UAA14\ACT_3\EX WPF OBJET    EVENTS\obj\Debug\EX WPF OBJET    EVENTS_MarkupCompile.lref
+C:\Users\jayso\Documents\UAA14\ACT_3\EX WPF OBJET    EVENTS\obj\Debug\MainWindow.baml
+C:\Users\jayso\Documents\UAA14\ACT_3\EX WPF OBJET    EVENTS\obj\Debug\EX WPF OBJET    EVENTS.g.resources
+C:\Users\jayso\Documents\UAA14\ACT_3\EX WPF OBJET    EVENTS\obj\Debug\EX_WPF_OBJET____EVENTS.Properties.Resources.resources
+C:\Users\jayso\Documents\UAA14\ACT_3\EX WPF OBJET    EVENTS\obj\Debug\EX WPF OBJET    EVENTS.csproj.GenerateResource.cache
+C:\Users\jayso\Documents\UAA14\ACT_3\EX WPF OBJET    EVENTS\obj\Debug\EX WPF OBJET    EVENTS.csproj.CoreCompileInputs.cache
+C:\Users\jayso\Documents\UAA14\ACT_3\EX WPF OBJET    EVENTS\obj\Debug\EX WPF OBJET    EVENTS.exe
+C:\Users\jayso\Documents\UAA14\ACT_3\EX WPF OBJET    EVENTS\obj\Debug\EX WPF OBJET    EVENTS.pdb

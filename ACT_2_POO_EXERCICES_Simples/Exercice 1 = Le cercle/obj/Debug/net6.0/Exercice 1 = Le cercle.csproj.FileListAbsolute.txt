@@ -1,0 +1,15 @@
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_2_POO_EXERCICES_Simples\Exercice 1 = Le cercle\bin\Debug\net6.0\Exercice 1 = Le cercle.exe
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_2_POO_EXERCICES_Simples\Exercice 1 = Le cercle\bin\Debug\net6.0\Exercice 1 = Le cercle.deps.json
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_2_POO_EXERCICES_Simples\Exercice 1 = Le cercle\bin\Debug\net6.0\Exercice 1 = Le cercle.runtimeconfig.json
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_2_POO_EXERCICES_Simples\Exercice 1 = Le cercle\bin\Debug\net6.0\Exercice 1 = Le cercle.dll
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_2_POO_EXERCICES_Simples\Exercice 1 = Le cercle\bin\Debug\net6.0\Exercice 1 = Le cercle.pdb
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_2_POO_EXERCICES_Simples\Exercice 1 = Le cercle\obj\Debug\net6.0\Exercice 1 = Le cercle.csproj.AssemblyReference.cache
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_2_POO_EXERCICES_Simples\Exercice 1 = Le cercle\obj\Debug\net6.0\Exercice 1 = Le cercle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_2_POO_EXERCICES_Simples\Exercice 1 = Le cercle\obj\Debug\net6.0\Exercice 1 = Le cercle.AssemblyInfoInputs.cache
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_2_POO_EXERCICES_Simples\Exercice 1 = Le cercle\obj\Debug\net6.0\Exercice 1 = Le cercle.AssemblyInfo.cs
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_2_POO_EXERCICES_Simples\Exercice 1 = Le cercle\obj\Debug\net6.0\Exercice 1 = Le cercle.csproj.CoreCompileInputs.cache
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_2_POO_EXERCICES_Simples\Exercice 1 = Le cercle\obj\Debug\net6.0\Exercice 1 = Le cercle.dll
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_2_POO_EXERCICES_Simples\Exercice 1 = Le cercle\obj\Debug\net6.0\refint\Exercice 1 = Le cercle.dll
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_2_POO_EXERCICES_Simples\Exercice 1 = Le cercle\obj\Debug\net6.0\Exercice 1 = Le cercle.pdb
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_2_POO_EXERCICES_Simples\Exercice 1 = Le cercle\obj\Debug\net6.0\Exercice 1 = Le cercle.genruntimeconfig.cache
+C:\Users\jayso\OneDrive\Documents\UAA14\ACT_2_POO_EXERCICES_Simples\Exercice 1 = Le cercle\obj\Debug\net6.0\ref\Exercice 1 = Le cercle.dll

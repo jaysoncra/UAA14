@@ -1,0 +1,14 @@
+C:\Users\jayso\Documents\UAA14\ACT_3\Elephants Ex\bin\Debug\net6.0\Elephants Ex.exe
+C:\Users\jayso\Documents\UAA14\ACT_3\Elephants Ex\bin\Debug\net6.0\Elephants Ex.deps.json
+C:\Users\jayso\Documents\UAA14\ACT_3\Elephants Ex\bin\Debug\net6.0\Elephants Ex.runtimeconfig.json
+C:\Users\jayso\Documents\UAA14\ACT_3\Elephants Ex\bin\Debug\net6.0\Elephants Ex.dll
+C:\Users\jayso\Documents\UAA14\ACT_3\Elephants Ex\bin\Debug\net6.0\Elephants Ex.pdb
+C:\Users\jayso\Documents\UAA14\ACT_3\Elephants Ex\obj\Debug\net6.0\Elephants Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayso\Documents\UAA14\ACT_3\Elephants Ex\obj\Debug\net6.0\Elephants Ex.AssemblyInfoInputs.cache
+C:\Users\jayso\Documents\UAA14\ACT_3\Elephants Ex\obj\Debug\net6.0\Elephants Ex.AssemblyInfo.cs
+C:\Users\jayso\Documents\UAA14\ACT_3\Elephants Ex\obj\Debug\net6.0\Elephants Ex.csproj.CoreCompileInputs.cache
+C:\Users\jayso\Documents\UAA14\ACT_3\Elephants Ex\obj\Debug\net6.0\Elephants Ex.dll
+C:\Users\jayso\Documents\UAA14\ACT_3\Elephants Ex\obj\Debug\net6.0\refint\Elephants Ex.dll
+C:\Users\jayso\Documents\UAA14\ACT_3\Elephants Ex\obj\Debug\net6.0\Elephants Ex.pdb
+C:\Users\jayso\Documents\UAA14\ACT_3\Elephants Ex\obj\Debug\net6.0\Elephants Ex.genruntimeconfig.cache
+C:\Users\jayso\Documents\UAA14\ACT_3\Elephants Ex\obj\Debug\net6.0\ref\Elephants Ex.dll

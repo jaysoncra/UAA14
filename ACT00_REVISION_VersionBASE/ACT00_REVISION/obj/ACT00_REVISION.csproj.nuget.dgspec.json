@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jayso\\OneDrive\\Documents\\UAA14\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\ACT00_REVISION.csproj": {}
+    "C:\\Users\\jayso\\Documents\\UAA14\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\ACT00_REVISION.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jayso\\OneDrive\\Documents\\UAA14\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\ACT00_REVISION.csproj": {
+    "C:\\Users\\jayso\\Documents\\UAA14\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\ACT00_REVISION.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jayso\\OneDrive\\Documents\\UAA14\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\ACT00_REVISION.csproj",
+        "projectUniqueName": "C:\\Users\\jayso\\Documents\\UAA14\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\ACT00_REVISION.csproj",
         "projectName": "ACT00_REVISION",
-        "projectPath": "C:\\Users\\jayso\\OneDrive\\Documents\\UAA14\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\ACT00_REVISION.csproj",
+        "projectPath": "C:\\Users\\jayso\\Documents\\UAA14\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\ACT00_REVISION.csproj",
         "packagesPath": "C:\\Users\\jayso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jayso\\OneDrive\\Documents\\UAA14\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\obj\\",
+        "outputPath": "C:\\Users\\jayso\\Documents\\UAA14\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
