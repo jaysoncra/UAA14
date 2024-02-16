@@ -1,0 +1,15 @@
+C:\Users\jayso\Documents\UAA14\ACT_4\creation_dynamique\creation_dynamique\bin\Debug\creation_dynamique.exe.config
+C:\Users\jayso\Documents\UAA14\ACT_4\creation_dynamique\creation_dynamique\bin\Debug\creation_dynamique.exe
+C:\Users\jayso\Documents\UAA14\ACT_4\creation_dynamique\creation_dynamique\bin\Debug\creation_dynamique.pdb
+C:\Users\jayso\Documents\UAA14\ACT_4\creation_dynamique\creation_dynamique\obj\Debug\creation_dynamique.csproj.AssemblyReference.cache
+C:\Users\jayso\Documents\UAA14\ACT_4\creation_dynamique\creation_dynamique\obj\Debug\MainWindow.g.cs
+C:\Users\jayso\Documents\UAA14\ACT_4\creation_dynamique\creation_dynamique\obj\Debug\App.g.cs
+C:\Users\jayso\Documents\UAA14\ACT_4\creation_dynamique\creation_dynamique\obj\Debug\creation_dynamique_MarkupCompile.cache
+C:\Users\jayso\Documents\UAA14\ACT_4\creation_dynamique\creation_dynamique\obj\Debug\creation_dynamique_MarkupCompile.lref
+C:\Users\jayso\Documents\UAA14\ACT_4\creation_dynamique\creation_dynamique\obj\Debug\MainWindow.baml
+C:\Users\jayso\Documents\UAA14\ACT_4\creation_dynamique\creation_dynamique\obj\Debug\creation_dynamique.g.resources
+C:\Users\jayso\Documents\UAA14\ACT_4\creation_dynamique\creation_dynamique\obj\Debug\creation_dynamique.Properties.Resources.resources
+C:\Users\jayso\Documents\UAA14\ACT_4\creation_dynamique\creation_dynamique\obj\Debug\creation_dynamique.csproj.GenerateResource.cache
+C:\Users\jayso\Documents\UAA14\ACT_4\creation_dynamique\creation_dynamique\obj\Debug\creation_dynamique.csproj.CoreCompileInputs.cache
+C:\Users\jayso\Documents\UAA14\ACT_4\creation_dynamique\creation_dynamique\obj\Debug\creation_dynamique.exe
+C:\Users\jayso\Documents\UAA14\ACT_4\creation_dynamique\creation_dynamique\obj\Debug\creation_dynamique.pdb

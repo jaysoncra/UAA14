@@ -1,0 +1,14 @@
+C:\Users\jayso\Documents\UAA14\ACT_6\Heritage\bin\Debug\net6.0\Heritage.exe
+C:\Users\jayso\Documents\UAA14\ACT_6\Heritage\bin\Debug\net6.0\Heritage.deps.json
+C:\Users\jayso\Documents\UAA14\ACT_6\Heritage\bin\Debug\net6.0\Heritage.runtimeconfig.json
+C:\Users\jayso\Documents\UAA14\ACT_6\Heritage\bin\Debug\net6.0\Heritage.dll
+C:\Users\jayso\Documents\UAA14\ACT_6\Heritage\bin\Debug\net6.0\Heritage.pdb
+C:\Users\jayso\Documents\UAA14\ACT_6\Heritage\obj\Debug\net6.0\Heritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayso\Documents\UAA14\ACT_6\Heritage\obj\Debug\net6.0\Heritage.AssemblyInfoInputs.cache
+C:\Users\jayso\Documents\UAA14\ACT_6\Heritage\obj\Debug\net6.0\Heritage.AssemblyInfo.cs
+C:\Users\jayso\Documents\UAA14\ACT_6\Heritage\obj\Debug\net6.0\Heritage.csproj.CoreCompileInputs.cache
+C:\Users\jayso\Documents\UAA14\ACT_6\Heritage\obj\Debug\net6.0\Heritage.dll
+C:\Users\jayso\Documents\UAA14\ACT_6\Heritage\obj\Debug\net6.0\refint\Heritage.dll
+C:\Users\jayso\Documents\UAA14\ACT_6\Heritage\obj\Debug\net6.0\Heritage.pdb
+C:\Users\jayso\Documents\UAA14\ACT_6\Heritage\obj\Debug\net6.0\Heritage.genruntimeconfig.cache
+C:\Users\jayso\Documents\UAA14\ACT_6\Heritage\obj\Debug\net6.0\ref\Heritage.dll

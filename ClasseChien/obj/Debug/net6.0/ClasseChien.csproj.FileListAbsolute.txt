@@ -1,0 +1,14 @@
+C:\Users\jayso\Documents\UAA14\ClasseChien\bin\Debug\net6.0\ClasseChien.exe
+C:\Users\jayso\Documents\UAA14\ClasseChien\bin\Debug\net6.0\ClasseChien.deps.json
+C:\Users\jayso\Documents\UAA14\ClasseChien\bin\Debug\net6.0\ClasseChien.runtimeconfig.json
+C:\Users\jayso\Documents\UAA14\ClasseChien\bin\Debug\net6.0\ClasseChien.dll
+C:\Users\jayso\Documents\UAA14\ClasseChien\bin\Debug\net6.0\ClasseChien.pdb
+C:\Users\jayso\Documents\UAA14\ClasseChien\obj\Debug\net6.0\ClasseChien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayso\Documents\UAA14\ClasseChien\obj\Debug\net6.0\ClasseChien.AssemblyInfoInputs.cache
+C:\Users\jayso\Documents\UAA14\ClasseChien\obj\Debug\net6.0\ClasseChien.AssemblyInfo.cs
+C:\Users\jayso\Documents\UAA14\ClasseChien\obj\Debug\net6.0\ClasseChien.csproj.CoreCompileInputs.cache
+C:\Users\jayso\Documents\UAA14\ClasseChien\obj\Debug\net6.0\ClasseChien.dll
+C:\Users\jayso\Documents\UAA14\ClasseChien\obj\Debug\net6.0\refint\ClasseChien.dll
+C:\Users\jayso\Documents\UAA14\ClasseChien\obj\Debug\net6.0\ClasseChien.pdb
+C:\Users\jayso\Documents\UAA14\ClasseChien\obj\Debug\net6.0\ClasseChien.genruntimeconfig.cache
+C:\Users\jayso\Documents\UAA14\ClasseChien\obj\Debug\net6.0\ref\ClasseChien.dll

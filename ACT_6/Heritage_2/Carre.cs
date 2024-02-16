@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Heritage_2
+{
+    internal class Carre : Form
+    {
+        privet 
+        public Carre(uint c, string couleur) : base(couleur)
+        {
+
+        }
+    }
+}

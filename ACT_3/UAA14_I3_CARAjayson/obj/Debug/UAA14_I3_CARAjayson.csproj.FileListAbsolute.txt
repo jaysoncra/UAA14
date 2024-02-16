@@ -1,0 +1,15 @@
+C:\Users\jayso\Documents\UAA14\ACT_3\UAA14_I3_CARAjayson\bin\Debug\UAA14_I3_CARAjayson.exe.config
+C:\Users\jayso\Documents\UAA14\ACT_3\UAA14_I3_CARAjayson\bin\Debug\UAA14_I3_CARAjayson.exe
+C:\Users\jayso\Documents\UAA14\ACT_3\UAA14_I3_CARAjayson\bin\Debug\UAA14_I3_CARAjayson.pdb
+C:\Users\jayso\Documents\UAA14\ACT_3\UAA14_I3_CARAjayson\obj\Debug\UAA14_I3_CARAjayson.csproj.AssemblyReference.cache
+C:\Users\jayso\Documents\UAA14\ACT_3\UAA14_I3_CARAjayson\obj\Debug\MainWindow.g.cs
+C:\Users\jayso\Documents\UAA14\ACT_3\UAA14_I3_CARAjayson\obj\Debug\App.g.cs
+C:\Users\jayso\Documents\UAA14\ACT_3\UAA14_I3_CARAjayson\obj\Debug\UAA14_I3_CARAjayson_MarkupCompile.cache
+C:\Users\jayso\Documents\UAA14\ACT_3\UAA14_I3_CARAjayson\obj\Debug\UAA14_I3_CARAjayson_MarkupCompile.lref
+C:\Users\jayso\Documents\UAA14\ACT_3\UAA14_I3_CARAjayson\obj\Debug\MainWindow.baml
+C:\Users\jayso\Documents\UAA14\ACT_3\UAA14_I3_CARAjayson\obj\Debug\UAA14_I3_CARAjayson.g.resources
+C:\Users\jayso\Documents\UAA14\ACT_3\UAA14_I3_CARAjayson\obj\Debug\UAA14_I3_CARAjayson.Properties.Resources.resources
+C:\Users\jayso\Documents\UAA14\ACT_3\UAA14_I3_CARAjayson\obj\Debug\UAA14_I3_CARAjayson.csproj.GenerateResource.cache
+C:\Users\jayso\Documents\UAA14\ACT_3\UAA14_I3_CARAjayson\obj\Debug\UAA14_I3_CARAjayson.csproj.CoreCompileInputs.cache
+C:\Users\jayso\Documents\UAA14\ACT_3\UAA14_I3_CARAjayson\obj\Debug\UAA14_I3_CARAjayson.exe
+C:\Users\jayso\Documents\UAA14\ACT_3\UAA14_I3_CARAjayson\obj\Debug\UAA14_I3_CARAjayson.pdb

@@ -1,0 +1,15 @@
+C:\Users\jayso\Documents\UAA14\ACT_6\Damier\bin\Debug\Damier.exe.config
+C:\Users\jayso\Documents\UAA14\ACT_6\Damier\bin\Debug\Damier.exe
+C:\Users\jayso\Documents\UAA14\ACT_6\Damier\bin\Debug\Damier.pdb
+C:\Users\jayso\Documents\UAA14\ACT_6\Damier\obj\Debug\Damier.csproj.AssemblyReference.cache
+C:\Users\jayso\Documents\UAA14\ACT_6\Damier\obj\Debug\MainWindow.g.cs
+C:\Users\jayso\Documents\UAA14\ACT_6\Damier\obj\Debug\App.g.cs
+C:\Users\jayso\Documents\UAA14\ACT_6\Damier\obj\Debug\Damier_MarkupCompile.cache
+C:\Users\jayso\Documents\UAA14\ACT_6\Damier\obj\Debug\Damier_MarkupCompile.lref
+C:\Users\jayso\Documents\UAA14\ACT_6\Damier\obj\Debug\MainWindow.baml
+C:\Users\jayso\Documents\UAA14\ACT_6\Damier\obj\Debug\Damier.g.resources
+C:\Users\jayso\Documents\UAA14\ACT_6\Damier\obj\Debug\Damier.Properties.Resources.resources
+C:\Users\jayso\Documents\UAA14\ACT_6\Damier\obj\Debug\Damier.csproj.GenerateResource.cache
+C:\Users\jayso\Documents\UAA14\ACT_6\Damier\obj\Debug\Damier.csproj.CoreCompileInputs.cache
+C:\Users\jayso\Documents\UAA14\ACT_6\Damier\obj\Debug\Damier.exe
+C:\Users\jayso\Documents\UAA14\ACT_6\Damier\obj\Debug\Damier.pdb
