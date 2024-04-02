@@ -1,0 +1,53 @@
+﻿<Window x:Class="CE_UAA14WPF24Rattrapage_CARAjayson.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CE_UAA14WPF24Rattrapage_CARAjayson"
+        mc:Ignorable="d"
+        Title="CE WPF CHANCE 2" Height="1000" Width="1200">
+    <Grid x:Name="grdMain" Background="#ebd9b4">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.ColumnSpan="2" FontSize="34" Text="VERIFIONS VOS CONNAISSANCES en WPF !" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" Foreground="#9DBC98"></TextBlock>
+        <StackPanel Grid.Column="1" Grid.Row="1" Background="#9DBC98">
+            <GroupBox  Header="Paramétrage" FontSize="22" FontWeight="Bold" Margin="5,10,5,10">
+                <StackPanel>
+                    <GroupBox Header="Choix de la disposition" Margin="5,10,5,5">
+                        <StackPanel>
+                            <RadioButton x:Name="RBS" Content="Solitaire" Margin="0,5,0,5" Checked="SoIsChecked"/>
+                            <RadioButton x:Name="RBM" Content="Marelle" Margin="0,0,0,5"/>
+                            <RadioButton x:Name="RBBL" Content="Une Bande Latérale" Margin="0,0,0,5" Checked="IsChecked" IsChecked="False" Unchecked="IsUnchecked"/>
+                        </StackPanel>
+                    </GroupBox>
+                    <GroupBox x:Name="ParaBandeLat" Header="Taille du plateau" Margin="5,15,5,35">
+                        <StackPanel>
+                            <WrapPanel Margin="0,5">
+                                <TextBlock Text="Nbre de Lignes"/>
+                                <TextBox x:Name="TxtBL" Width="35" Margin="40,0,0,0" TextInput="TextimputL"/>
+                            </WrapPanel>
+                            <WrapPanel>
+                                <TextBlock Text="Nbre de Colonnes"/>
+                                <TextBox x:Name="TxtBC" Width="35" Margin="11,0,0,0" TextInput="TextimputC"/>
+                            </WrapPanel>
+                        </StackPanel>
+                    </GroupBox>
+                </StackPanel>
+            </GroupBox>
+            <Button x:Name="BtnValider" Content="VALIDER" Background="LightGray" Margin="5,5,0,5" VerticalContentAlignment="Center" Padding="9" Height="50" FontWeight="Bold" FontSize="22" Click="Click"/>
+        </StackPanel>
+        <TextBlock x:Name="TxtError" Text="Test WPF 6T 2024" Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30" FontWeight="Bold" Foreground="PaleVioletRed" TouchEnter="Enter"/>
+        <Grid x:Name="grdSec" Grid.Row="1">
+
+        </Grid>
+    </Grid>
+</Window>
